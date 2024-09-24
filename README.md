@@ -1,6 +1,4 @@
-## Hi there 👋
-Cybersecurity Student
-I’m currently working on building my foundational skills in cybersecurity.
+hello
 
 
 <!--
@@ -18,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Chocolate is nice. So is milk.
