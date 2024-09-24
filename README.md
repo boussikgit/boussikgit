@@ -1,4 +1,12 @@
 ## Hi there 👋
+🛡️ Cybersecurity Student
+🔭 I’m currently working on building my foundational skills in cybersecurity.
+🌱 I’m currently learning the basics of network security, ethical hacking, and Python.
+👯 I’m looking to collaborate on beginner-friendly cybersecurity projects or study groups.
+🤔 I’m looking for help with understanding more advanced topics like penetration testing and malware analysis.
+💬 Ask me about anything related to cybersecurity for beginners or my learning journey.
+😄 Pronouns: He/Him
+⚡ Fun fact: I’m fascinated by how encryption keeps our data safe!
 
 <!--
 **boussikgit/boussikgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
