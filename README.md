@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Cheese is nice. So is milk.
+Chocolate is nice. So is milk.
