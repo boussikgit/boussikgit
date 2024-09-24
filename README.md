@@ -1,2 +1,1 @@
-hello, hi how are you?
-choco
+Hi, how are you?
