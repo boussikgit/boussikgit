@@ -1,3 +1,2 @@
-Hi, how are you?
-asdd
-hhhh
+print("Hello, World")
+if you can
